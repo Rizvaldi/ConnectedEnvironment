@@ -1,0 +1,7 @@
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\bin\Debug\ConnectedEnvironment.exe.config
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\bin\Debug\ConnectedEnvironment.exe
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\bin\Debug\ConnectedEnvironment.pdb
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\obj\Debug\ConnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\obj\Debug\ConnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\obj\Debug\ConnectedEnvironment.exe
+C:\Users\62813\source\repos\ConnectedEnvironment\ConnectedEnvironment\obj\Debug\ConnectedEnvironment.pdb
